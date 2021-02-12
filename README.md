@@ -1,2 +1,2 @@
 # chashmap
-A hashmap build in c
+This is a hashmap I build in C to develop my C skills.
